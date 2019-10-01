@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AplikasiBiodata</string>
+    <string name="deskripsi">Capek ? boleh \n Ngeluh ? boleh \n Nyerah? jangan \n Tetap Semangat</string>
+    <string name="nim">A11.2017.10097</string>
+    <string name="nama">Tri Waluyo</string>
+    <string name="textHobi">Programmer , Rebahan Gamers</string>
+    <string name="kemaps">Alamat</string>
+    <string name="ketelepon">Telepon</string>
+    <string name="keemail">email</string>
+</resources>
